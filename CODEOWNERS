@@ -1,0 +1,5 @@
+* @withgetapet/maintainers
+
+frontend/ @withgetapet/frontend @withgetapet/maintainers
+
+backend/ @withgetapet/backend @withgetapet/maintainers
