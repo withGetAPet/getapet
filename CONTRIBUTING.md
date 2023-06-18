@@ -267,7 +267,7 @@ When you make a PR, you should also update the documentation for the subproject 
 
 ## Questions
 
-If you have any questions, please ask in the [discord server](https://withzaflun.com/discord) or create an issue on the repo or in the discussion section
+If you have any questions, please ask in the [discord server](https://withgetapet.com/discord) or create an issue on the repo or in the discussion section
 
 Please do not hesitate to ask questions; we are here to help you and make sure you are comfortable contributing to this project. If you need help following the design documents or need clarification about the codebase, please ask us, and we will help you.
 
