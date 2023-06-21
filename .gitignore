@@ -1,7 +1,7 @@
 target/
 .vscode/
 !.vscode/extensions.json
-.idea
+.idea/
 node_modules/
 .env*
 *.log
